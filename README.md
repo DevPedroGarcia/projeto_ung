@@ -41,6 +41,6 @@ Olá! Meu nome é **Pedro Garcia**, mas na internet alguns me conhecem como **Ga
 
 6. Certifique-se de ter um servidor PHP funcionando (como XAMPP ou WAMP) e coloque os arquivos no diretório público do servidor.  
 
-7. Abra o sistema no navegador e acesse os recursos de cadastro, listagem, edição e exclusão.
+7. Abra o sistema no navegador e acesse os recursos de cadastro, login (verificação), delete e update.
 
 ---
