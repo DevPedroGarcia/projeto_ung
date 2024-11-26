@@ -22,7 +22,7 @@ Essas tecnologias foram escolhidas pela sua relevância e aplicabilidade em proj
 
 ## **🎓 Contexto Acadêmico**
 
-Este projeto foi desenvolvido no contexto das atividades da **Universidade UNG**, como parte do aprendizado prático em disciplinas que abordam **desenvolvimento web** e **bancos de dados**. Ele reflete a aplicação de conceitos teóricos em um sistema funcional.
+Este projeto foi desenvolvido no contexto das atividades da **Universidade de Guarulhos (UNG)**, como parte do aprendizado prático em disciplinas que abordam **desenvolvimento web** e **bancos de dados**. Ele reflete a aplicação de conceitos teóricos em um sistema funcional.
 
 ## **🧑‍💻 Sobre o Desenvolvedor**
 
