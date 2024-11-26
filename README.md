@@ -29,7 +29,7 @@ Este projeto foi desenvolvido no contexto das atividades da **Universidade de Gu
 Olá! Meu nome é **Pedro Garcia**, mas na internet alguns me conhecem como **Galfin**. Este projeto representa meu compromisso com a prática e aprendizado contínuo na área de tecnologia. Se quiser saber mais sobre meus trabalhos ou trocar ideias, fique à vontade para entrar em contato!
 
 - [Perfil GitHub](https://github.com/DevPedroGarcia)  
-- Email: [seuemail@exemplo.com](mailto:pedrogarcianegocios1@gmail.com)
+- Email: [pedrogarcianegocios1@gmail.com](mailto:pedrogarcianegocios1@gmail.com)
 
 ## 🛠️ Como Usar o Projeto
 
